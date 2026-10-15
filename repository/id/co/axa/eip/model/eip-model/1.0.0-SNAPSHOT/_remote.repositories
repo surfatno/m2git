@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 16 03:22:49 WIB 2026
+eip-model-1.0.0-SNAPSHOT-sources.jar>=
+eip-model-1.0.0-SNAPSHOT.jar>=
+eip-model-1.0.0-SNAPSHOT.pom>=
