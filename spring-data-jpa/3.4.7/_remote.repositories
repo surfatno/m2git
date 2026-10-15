@@ -1,3 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Oct 15 21:18:15 WIB 2026
-xmlunit-parent-2.10.2.pom>central=
+#Thu Oct 15 22:36:35 WIB 2026
+spring-data-jpa-3.4.7-sources.jar>central=
+spring-data-jpa-3.4.7.pom>central=
