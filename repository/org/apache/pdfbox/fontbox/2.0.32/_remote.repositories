@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Oct 20 09:47:08 WIB 2026
+#Fri Oct 23 09:49:19 WIB 2026
 fontbox-2.0.32.jar>central=
 fontbox-2.0.32.pom>central=
+fontbox-2.0.32-sources.jar>central=

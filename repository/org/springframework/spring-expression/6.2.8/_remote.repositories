@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Oct 20 09:47:06 WIB 2026
-spring-expression-6.2.8.pom>central=
+#Fri Oct 23 09:48:54 WIB 2026
 spring-expression-6.2.8.jar>central=
+spring-expression-6.2.8.pom>central=
+spring-expression-6.2.8-sources.jar>central=

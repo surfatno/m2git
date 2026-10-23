@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Oct 20 09:47:09 WIB 2026
+#Fri Oct 23 09:49:03 WIB 2026
 awaitility-4.2.2.pom>central=
+awaitility-4.2.2-sources.jar>central=
 awaitility-4.2.2.jar>central=
